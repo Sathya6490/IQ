@@ -1,0 +1,4 @@
+-Dependency injection
+-Project explanation
+-Project stages
+-Angular and MangoDB
