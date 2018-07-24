@@ -1,0 +1,13 @@
+-Box-sizing
+-Form type elements in HTML5
+-pesudo elements
+-what is svg, where we are using the same
+-Flex box
+-media query
+-SASS/LESS
+-undefined values
+-push method
+-diff between onload and ondocument ready
+-Selectors in jquery
+-add a class in jquery
+-remove dom element in jquery
